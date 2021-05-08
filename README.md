@@ -12,7 +12,7 @@ Data Sources: The data for this project was provided by the Nashville City Cemet
 * [Marketing Material](#Marketing-Material)
 
 # Excel Walkthrough
-1. The data starts with a total of 19746 rows and 16 columns detailing the burial information for each person in the cemetery dataset.
+1. The data starts with a total of 19746 rows and 16 columns detailing the burial information for each person in the cemetery dataset. Sadly I am not able to show the full dataset at the request of Nashville City Cemetery.
 
 2. For the first pivot table, I wanted to look at the top causes of death in the dataset and chart the results, so I used the cause of death column and the count of the volume column. The top cause of death was consumption.
 
